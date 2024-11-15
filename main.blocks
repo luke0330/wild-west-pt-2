@@ -162,4 +162,4 @@ bb777bbb55555555555555555555555bbbbbbbbbbb666bbb55555555555555555555555bbbbbbbbb
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"jRNz.O(:@??[r1PLs=E3"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="NRI[?.20JEIYbW=]:O:W"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"jRNz.O(:@??[r1PLs=E3"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="NRI[?.20JEIYbW=]:O:W"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="controls_if" id="iou)c#W8C$.XqE?+Eq-0"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="Jh6XF[qw$1js!kIMPJxN"><field name="BOOL">TRUE</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>

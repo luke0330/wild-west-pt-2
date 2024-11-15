@@ -165,3 +165,8 @@ let cb2 = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
+if (true) {
+	
+} else {
+	
+}
